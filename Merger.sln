@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merger", "Merger\Merger.csproj", "{07E12BEA-055E-4B49-A373-D106AB8BCF09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E12BEA-055E-4B49-A373-D106AB8BCF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E12BEA-055E-4B49-A373-D106AB8BCF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E12BEA-055E-4B49-A373-D106AB8BCF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E12BEA-055E-4B49-A373-D106AB8BCF09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE69681-F641-4791-A8C2-5797F89FF691}
+	EndGlobalSection
+EndGlobal
